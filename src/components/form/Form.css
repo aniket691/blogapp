@@ -1,0 +1,12 @@
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; /* Center vertically on the screen */
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px; /* Add margin top to create space */
+}
